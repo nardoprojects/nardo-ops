@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "Web agency to add CNAME for crm.nardoprojects.com.au", "priority": "high", "status": "pending", "due": "2026-04-01", "category": "infrastructure" },
+  { "id": 2, "title": "Add domain crm.nardoprojects.com.au to Vercel once DNS confirmed", "priority": "high", "status": "pending", "due": "2026-04-01", "category": "infrastructure" },
+  { "id": 3, "title": "Logo concepts — send to designer/web agency", "priority": "high", "status": "in_progress", "due": "2026-04-01", "category": "brand" },
+  { "id": 4, "title": "Professional photography — next completed project", "priority": "medium", "status": "pending", "due": "2026-04-30", "category": "brand" },
+  { "id": 5, "title": "Website redesign brief to web agency", "priority": "medium", "status": "pending", "due": "2026-04-07", "category": "marketing" },
+  { "id": 6, "title": "Set up Instagram and Facebook business profiles", "priority": "medium", "status": "pending", "due": "2026-04-14", "category": "marketing" },
+  { "id": 7, "title": "Add real subcontractors to CRM", "priority": "high", "status": "pending", "due": "2026-04-02", "category": "crm" },
+  { "id": 8, "title": "Morning brief setup via Telegram", "priority": "medium", "status": "pending", "due": "2026-04-02", "category": "operations" },
+  { "id": 9, "title": "Meta ads setup — bathroom reno + new builds targeting", "priority": "low", "status": "pending", "due": "2026-05-01", "category": "marketing" },
+  { "id": 10, "title": "Bathroom reno quoting tool — onsite pricing engine", "priority": "low", "status": "pending", "due": "2026-05-15", "category": "product" }
+]
