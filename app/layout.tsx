@@ -8,8 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Nardo Projects — Operations Centre",
-  description: "Nardo Projects internal operations dashboard",
+  title: "The Classroom | Felix Control Room",
+  description: "Felix control room for agent visibility, task ownership and verified operational state.",
 };
 
 export default function RootLayout({
